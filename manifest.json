@@ -1,0 +1,56 @@
+{
+  "background_color": "#ffffff",
+  "description": "Lion Simulator 3D is a fantastic 3D simulation game in which you can feel what it is like to be a Lion on a beautiful island! Perform various tasks, start an adorable family, win various competitions, make your Lion stronger and more beautiful, decorate your home, fight forest predators, help other good guys, and do much more!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Lion Family-Animal Simulator 3d",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Lion Family-Animal Simulator 3d",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity"
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "1919x1024",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/icon-any.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Lion Family-Animal Simulator 3d",
+      "url": "",
+      "description": "Lion Simulator 3D is a fantastic 3D simulation game in which you can feel what it is like to be a Lion on a beautiful island! Perform various tasks, start an adorable family, win various competitions, make your Lion stronger and more beautiful, decorate your home, fight forest predators, help other good guys, and do much more!!"
+    }
+  ]
+}
